@@ -1,5 +1,5 @@
 # Quiz-Management-System
-Quiz Management System using Java and MySQL.Her I deployed my project for running anywhere use QUizapp.jar and QUizapp.bat .Click on QUizapp.bat to run Application.
+Quiz Management System using Java and MySQL.Here I deployed my project for running anywhere use QUizapp.jar and QUizapp.bat .Click on QUizapp.bat to run Application.
 
 Output:
 
